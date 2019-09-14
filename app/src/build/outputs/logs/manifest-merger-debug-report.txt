@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:2:1-38:12
+MERGED from [com.android.support:design:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/8928253e02f0a8464d6ec97285bfdeb1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/df951c21982c6441c5dc4991acf6094e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/regis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/51fb397aa5ad3acaea16880a3e101eff/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5b36930e59d332f5d8124b9461d08239/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/642b761d0377995ff88e000bfc984f53/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/regis/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/57da4c84dc345cacfe68f3105232a83d/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8a36bc47daa820164ac4a92aaad5c594/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/41dd373635e257c3eccdf8c93d5d3677/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/8c91368f863dfa08e9f3b118ed4e660b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/00fd6687b4f64d806300c8ed35945d7a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/456ebd16483752dfe28e6c503d36f93b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1bf19519b78bf9fe637d9c15d0402840/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/d5defee747f320dea9a13931178933e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f4f791078a538955c224ed31c8de5af4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7dae4f632b5dd86d8f154deda79201c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/regis/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/47552b911372ae07847e1d179b41c397/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/regis/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/13132ed2aa7a13a5573c7caf64fd2e03/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/regis/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/71cd128760aec5c0a3c8ff152ad0bde5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/regis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/073b849775afe860c5d09d507cb9e710/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/regis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/01141fad2881ac99f0a52a00429765a7/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml
+		INJECTED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:8:5-36:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/regis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/51fb397aa5ad3acaea16880a3e101eff/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/regis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/51fb397aa5ad3acaea16880a3e101eff/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/regis/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/57da4c84dc345cacfe68f3105232a83d/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/regis/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/57da4c84dc345cacfe68f3105232a83d/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/regis/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/47552b911372ae07847e1d179b41c397/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/regis/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/47552b911372ae07847e1d179b41c397/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.stephenmbaalu.filmfan.MainActivity
+ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.stephenmbaalu.filmfan.MovieFullDetails
+ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:25:9-28:59
+	android:label
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:27:13-70
+	android:theme
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:26:13-45
+activity#com.stephenmbaalu.filmfan.Login
+ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:29:9-31:59
+	android:theme
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:30:13-34
+activity#com.stephenmbaalu.filmfan.MyFavorites
+ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:32:9-35:68
+	android:label
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:34:13-64
+	android:theme
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml:33:13-40
+uses-sdk
+INJECTED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml
+INJECTED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/8928253e02f0a8464d6ec97285bfdeb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/8928253e02f0a8464d6ec97285bfdeb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/df951c21982c6441c5dc4991acf6094e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/df951c21982c6441c5dc4991acf6094e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/regis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/51fb397aa5ad3acaea16880a3e101eff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/regis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/51fb397aa5ad3acaea16880a3e101eff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5b36930e59d332f5d8124b9461d08239/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/5b36930e59d332f5d8124b9461d08239/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/642b761d0377995ff88e000bfc984f53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/642b761d0377995ff88e000bfc984f53/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/regis/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/57da4c84dc345cacfe68f3105232a83d/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /home/regis/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/57da4c84dc345cacfe68f3105232a83d/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8a36bc47daa820164ac4a92aaad5c594/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8a36bc47daa820164ac4a92aaad5c594/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/41dd373635e257c3eccdf8c93d5d3677/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/41dd373635e257c3eccdf8c93d5d3677/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/8c91368f863dfa08e9f3b118ed4e660b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/8c91368f863dfa08e9f3b118ed4e660b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/00fd6687b4f64d806300c8ed35945d7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/00fd6687b4f64d806300c8ed35945d7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/456ebd16483752dfe28e6c503d36f93b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/456ebd16483752dfe28e6c503d36f93b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1bf19519b78bf9fe637d9c15d0402840/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1bf19519b78bf9fe637d9c15d0402840/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/d5defee747f320dea9a13931178933e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/d5defee747f320dea9a13931178933e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f4f791078a538955c224ed31c8de5af4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f4f791078a538955c224ed31c8de5af4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7dae4f632b5dd86d8f154deda79201c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/regis/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/7dae4f632b5dd86d8f154deda79201c3/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/regis/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/47552b911372ae07847e1d179b41c397/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /home/regis/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/47552b911372ae07847e1d179b41c397/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/regis/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/13132ed2aa7a13a5573c7caf64fd2e03/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/regis/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/13132ed2aa7a13a5573c7caf64fd2e03/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/regis/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/71cd128760aec5c0a3c8ff152ad0bde5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/regis/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/71cd128760aec5c0a3c8ff152ad0bde5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/regis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/073b849775afe860c5d09d507cb9e710/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/regis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/073b849775afe860c5d09d507cb9e710/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/regis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/01141fad2881ac99f0a52a00429765a7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/regis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/01141fad2881ac99f0a52a00429765a7/AndroidManifest.xml:20:5-44
+INJECTED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml
+INJECTED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml
+		INJECTED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml
+		ADDED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml
+		INJECTED from /home/regis/Desktop/FilmFanRegisBKAppsOLD/app/src/main/AndroidManifest.xml
